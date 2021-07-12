@@ -1,5 +1,5 @@
 # Opencv
-Basic programs of OpenCv which I done as part of my learning
+Basic programs of OpenCv, which I done as part of my learning.
 
 
 # Installation
@@ -34,6 +34,8 @@ https://www.onmsft.com/how-to/how-to-set-an-environment-variable-in-windows-10
                      ```
  
 * **Opencv** : OpenCV is a library of programming functions mainly aimed at real-time computer vision,with installation of opencv library Numerical Python library too get                      install so   no need to install numpy again . NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and                      matrices, along with a large     collection of high-level mathematical functions to operate on these arrays.
+
+
                ```javascript
                pip install opencv-python
                ```
@@ -41,7 +43,7 @@ https://www.onmsft.com/how-to/how-to-set-an-environment-variable-in-windows-10
 
 # Files
  
-> For this repository I used sample images from github ,you can too download or clone from [here]{https://github.com/opencv/opencv/tree/master/samples/data}
+> For this repository I used sample images from github ,you can too download or clone from [here](https://github.com/opencv/opencv/tree/master/samples/data)
 
 
 
